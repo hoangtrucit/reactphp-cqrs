@@ -1,0 +1,14 @@
+{
+    "name": "tructran/reactphp-cqrs",
+    "authors": [
+        {
+            "name": "Truc Tran",
+            "email": "truc.tran@go1.com"
+        }
+    ],
+    "require": {
+        "react/http": "^0.8.3",
+        "react/socket": "^1.1",
+        "cboden/ratchet": "^0.4.1"
+    }
+}
